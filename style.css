@@ -19,6 +19,19 @@ body {
   justify-content: center;
 }
 
+/* music container */
+
+.music-container {
+  background-color: #fff;
+  padding: 20px 30px;
+  margin: 100px 0;
+  border-radius: 15px;
+  box-shadow: 0 20px 20px 0 rgba(252, 169, 169, 0.6);
+  display: flex;
+  position: relative;
+  z-index: 10;
+}
+
 /* Image */
 .img-container {
   position: relative;
@@ -39,6 +52,4 @@ body {
 .navigation {
   width: 410px;
   height: 95px;
-  background-color: #fff;
-  border-radius: 8px;
 }
