@@ -27,3 +27,11 @@ body {
   border-radius: 50%;
   object-fit: cover;
 }
+
+/* Navaigation */
+.navigation {
+  width: 410px;
+  height: 95px;
+  background-color: #fff;
+  border-radius: 8px;
+}
